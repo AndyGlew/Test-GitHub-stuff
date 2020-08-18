@@ -1,0 +1,3 @@
+[submodule "Test-GitHub-stuff.wiki"]
+	path = Test-GitHub-stuff.wiki
+	url = git@github.com:AndyGlew/Test-GitHub-stuff.wiki.git
